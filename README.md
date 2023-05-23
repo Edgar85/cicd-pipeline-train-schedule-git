@@ -13,3 +13,4 @@ Then, you can run the app with:
     npm start
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
+![cicd-pipeline](https://github.com/Edgar85/cicd-pipeline-train-schedule-git/blob/master/Screenshot%20from%202023-05-23%2009-00-21.png)
